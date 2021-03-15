@@ -17,6 +17,15 @@
 
 
   <img width="80px" height="80px" class="css" alt="logo-css" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg">
+  
+  
+  <img width="80px" height="80px" class="flutter" alt="logo-flutter" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg">
+  
+  <img width="80px" height="80px" class="ts" alt="logo-typescript" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg">
+  
+  
+  
+
 
 </p>
 
