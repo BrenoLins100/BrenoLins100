@@ -20,16 +20,57 @@
 
   <img width="80px" height="80px" class="css" alt="logo-css" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg">
   
+  <img width="80px" height="80px" class="boot" alt="logo-bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain-wordmark.svg">
   
   <img width="80px" height="80px" class="flutter" alt="logo-flutter" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg">
   
   <img width="80px" height="80px" class="ts" alt="logo-typescript" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg">
+  
+  <img width="80px" height="80px" class="dart" alt="logo-dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+  
+ 
   
   
   
 
 
 </p>
+
+<code>❄️Back End❄️</code>
+
+<p float="left">
+  
+  <img width="80px" height="80px" class="php" alt="logo-php" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/php/php-original.svg">
+  
+  <img width="80px" height="80px" class="njs" alt="logo-nodejs" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original-wordmark.svg">
+  
+  
+
+</p>
+
+<code>❄️Bancos de dados❄️</code>
+
+<p float="left">
+  
+  <img width="80px" height="80px" class="msql" alt="logo-mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+  
+
+</p>
+
+
+<code>❄️Ferramentas❄️</code>
+
+<p float="left">
+  
+  <img width="80px" height="80px" class="ps" alt="logo-ps" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/illustrator/illustrator-line.svg">
+   <img width="80px" height="80px" class="ill" alt="logo-ill" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/photoshop/photoshop-line.svg">
+    
+  <img width="200px" height="100px" class="azure" alt="logo-azure" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">
+  
+
+</p>
+
+
 
 <!--
 **BrenoLins100/BrenoLins100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
