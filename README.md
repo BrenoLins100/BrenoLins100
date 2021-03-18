@@ -8,25 +8,25 @@
 
 <p float="left">
   
-  <img width="80px" height="80px" class="angular" alt="logo-angular" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/angularjs/angularjs-original.svg">
+  <img width="50px" height="50px" class="angular" alt="logo-angular" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/angularjs/angularjs-original.svg">
 
 
-  <img width="80px" height="80px" class="html" alt="logo-html" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original-wordmark.svg">
+  <img width="50px" height="50px" class="html" alt="logo-html" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/html5/html5-original-wordmark.svg">
 
   
-  <img width="80px" height="80px" class="js" alt="logo-js" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg">
+  <img width="50px" height="50px" class="js" alt="logo-js" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg">
 
 
 
-  <img width="80px" height="80px" class="css" alt="logo-css" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg">
+  <img width="50px" height="50px" class="css" alt="logo-css" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/css3/css3-original-wordmark.svg">
   
-  <img width="80px" height="80px" class="boot" alt="logo-bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img width="50px" height="50px" class="boot" alt="logo-bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain-wordmark.svg">
   
-  <img width="80px" height="80px" class="flutter" alt="logo-flutter" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg">
+  <img width="50px" height="50px" class="flutter" alt="logo-flutter" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg">
   
-  <img width="80px" height="80px" class="ts" alt="logo-typescript" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg">
+  <img width="50px" height="50px" class="ts" alt="logo-typescript" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-original.svg">
   
-  <img width="80px" height="80px" class="dart" alt="logo-dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+  <img width="50px" height="50px" class="dart" alt="logo-dart" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
   
  
   
@@ -40,9 +40,9 @@
 
 <p float="left">
   
-  <img width="80px" height="80px" class="php" alt="logo-php" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/php/php-original.svg">
+  <img width="50px" height="50px" class="php" alt="logo-php" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/php/php-original.svg">
   
-  <img width="80px" height="80px" class="njs" alt="logo-nodejs" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original-wordmark.svg">
+  <img width="50px" height="50px" class="njs" alt="logo-nodejs" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original-wordmark.svg">
   
   
 
@@ -62,10 +62,10 @@
 
 <p float="left">
   
-  <img width="80px" height="80px" class="ps" alt="logo-ps" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/illustrator/illustrator-line.svg">
-   <img width="80px" height="80px" class="ill" alt="logo-ill" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/photoshop/photoshop-line.svg">
+  <img width="50px" height="50px" class="ps" alt="logo-ps" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/illustrator/illustrator-line.svg">
+   <img width="50px" height="50px" class="ill" alt="logo-ill" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/photoshop/photoshop-line.svg">
     
-  <img width="200px" height="100px" class="azure" alt="logo-azure" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">
+  <img width="100px" height="50px" class="azure" alt="logo-azure" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg">
   
 
 </p>
